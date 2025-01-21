@@ -3,7 +3,7 @@ HELPD: Mitigating Hallucination of LVLMs by Hierarchical Feedback Learning with 
 
 [[Paper](https://arxiv.org/abs/2409.20429)] [[Data]()]
 
-![](.\framework.png)
+![framework](framework.png)
 
 ## Contents
 - [Install](#install)
